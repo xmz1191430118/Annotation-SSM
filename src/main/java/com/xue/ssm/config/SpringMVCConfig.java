@@ -12,5 +12,5 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 @ComponentScan("com.xue.ssm.controller")
 @EnableWebMvc
 public class SpringMVCConfig {
-////
+////hot-fix
 }
